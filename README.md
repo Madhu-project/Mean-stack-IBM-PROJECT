@@ -1,4 +1,6 @@
 # Mean-stack-IBM-PROJECT
+
+#Full stack
 node server.js
 
 npm install --save express
